@@ -1,0 +1,12 @@
+
+
+
+
+.nav-item{
+    display:inline-block;
+    list-style-type:circle;
+    font-size: 26px;
+    color: teal;
+    margin: 20px;
+
+}
