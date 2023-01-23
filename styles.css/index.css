@@ -1,12 +1,33 @@
+h1 {
+    color: aquamarine;
+    font-family: georgia;
+    font-size: 50px;
+    font-weight: 400;
+    font-style: bold;
+    text-align:center;
+    background-color: teal;
+    padding: 20px;
+}
 
-
-
+ul {
+    text-align: center;
+}
 
 .nav-item{
+    
     display:inline-block;
     list-style-type:circle;
-    font-size: 26px;
-    color: teal;
-    margin: 20px;
+    font-family: arial;
+    font-size: 30px;
+    padding-right: 40px;
+}
 
+
+h3 {
+    color:teal;
+    font-family: arial;
+    font-size: 20px;
+    font-weight:100;
+    padding-left: 30px;
+    
 }
