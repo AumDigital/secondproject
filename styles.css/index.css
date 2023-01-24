@@ -42,7 +42,12 @@ h3 {
     color: rgb(1, 6, 1);
     font-size: 18px;
     background-color: rgb(234, 184, 91, 0.6);
+    padding-top: 5px;
+    padding-bottom: 5px;
     margin-bottom: 50px;
+    text-align: center;
+    list-style-position: inside;
+    
     
 }
 
@@ -53,12 +58,13 @@ h3 {
     border-style: solid;
     border-color: black;
     position: relative;
-    left: 4%;
+    left: 10%;
+    margin-bottom: 50px;
 
 
 }
 
-.yoga-shala {
+.yogashala-image {
     width: 300px;
     height: 250px;
     border-width: 2px;
@@ -66,18 +72,71 @@ h3 {
     border-color: black;
     position: relative;
     left: 50%;
+    margin-bottom: 50px;
 }
 
 .self-practice {
     color: rgb(0, 9, 0);
     font-size: 18px;
     background-color:rgb(243, 145, 91, 0.6);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+    text-align:center;
+}
+
+.solopractice-image {
+    width: 300px;
+    height: 250px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    left: 10%;
     margin-bottom: 50px;
 }
+
+.homepractice-image {
+    width: 300px;
+    height: 250px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    left: 50%;
+    margin-bottom: 50px;
+}
+
 
 .yoga-philosophy {
     color: rgb(1, 4, 1);
     font-size: 18px;
     background-color: rgba(202, 86, 32, 0.6);
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 50px;
+    text-align:center;
+}
+
+.philosophycontent-image {
+    width: 300px;
+    height: 250px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    left: 10%;
+    margin-bottom: 50px;
+
+}
+
+.yogareading-image {
+    width: 300px;
+    height: 250px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    left: 50%;
     margin-bottom: 50px;
 }
