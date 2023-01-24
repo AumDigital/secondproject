@@ -9,8 +9,13 @@ h1 {
     padding: 20px;
 }
 
-
-
+body{
+    background-image: url(../images/yogic-sunrise.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
 
 nav {
     font-family: arial;
@@ -23,7 +28,7 @@ nav {
 
 
 h3 {
-    color:teal;
+    color:rgb(246, 245, 247);
     font-family: arial;
     font-size: 25px;
     font-weight:200;
@@ -31,24 +36,48 @@ h3 {
 
 }
 
+
+
 .yoga-studios {
-    color: green;
+    color: rgb(1, 6, 1);
     font-size: 18px;
-    background-color: burlywood;
+    background-color: rgb(234, 184, 91, 0.6);
+    margin-bottom: 50px;
     
+}
+
+.yoga-image {
+    width: 300px;
+    height: 250px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    left: 4%;
 
 
+}
+
+.yoga-shala {
+    width: 300px;
+    height: 250px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: black;
+    position: relative;
+    left: 50%;
 }
 
 .self-practice {
-    color: green;
+    color: rgb(0, 9, 0);
     font-size: 18px;
-    background-color: burlywood;
-
+    background-color:rgb(243, 145, 91, 0.6);
+    margin-bottom: 50px;
 }
 
 .yoga-philosophy {
-    color: green;
+    color: rgb(1, 4, 1);
     font-size: 18px;
-    background-color: burlywood;
+    background-color: rgba(202, 86, 32, 0.6);
+    margin-bottom: 50px;
 }
